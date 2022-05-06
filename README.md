@@ -116,5 +116,8 @@ $ flutter build apk
 - Flask
 - Flutter
 - Firebase
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 0d6a4b1df798366fd5d2c6bbc1f39d9d5ec619cd
